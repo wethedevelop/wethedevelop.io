@@ -1,4 +1,7 @@
-# wethedevelop.io
+
+### [中文文档](#Chinese)
+### [英文文档](#English)
+# wethedevelop.io <span id="Chinese"> </span>
 
 ## 简介
 [WeTheDevelop.io](https://github.com/wethedevelop/wethedevelop.io)是一块技术试验田，他的目标是尽可能的使用最新最有趣的技术去搭建一个类似于v2ex的开源技术社区。
@@ -42,7 +45,7 @@ proto接口描述文件: [https://github.com/wethedevelop/proto](https://github.
 
 #### 微服务
 
-# wethedevelop.io
+# wethedevelop.io<span id="English"></span>
 
 ## Introduction
 [WeTheDevelop.io](https://github.com/wethedevelop/wethedevelop.io) is a technology testing field, and its goal is to use the latest and most interesting technologies as much as possible to build an open source technology community similar to V2EX.
