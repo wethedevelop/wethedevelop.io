@@ -9,6 +9,15 @@
 
 叠最厚的buff，挨最痛的打。
 
+## 架构图
+
+![架构图](struct.png)
+
+项目整体文档: https://github.com/wethedevelop/wethedevelop.io
+网关服务: https://github.com/wethedevelop/gateway
+账号微服务: https://github.com/wethedevelop/account
+proto接口描述文件: https://github.com/wethedevelop/proto
+
 ## 采用新技术的一个常见步骤
 
 假设我们要采用jager（猎人）来做链路追踪。
