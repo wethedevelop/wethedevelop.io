@@ -34,6 +34,46 @@ proto接口描述文件: [https://github.com/wethedevelop/proto](https://github.
 4. 运维同学部署到生产环境，成为生态的一部分。
 5. ~永远 希望你能保证这个技术栈能继续使用下去，而不是从此荒废了。如果荒废了的技术，有可能在后面被剔除出去。
 
+
+## 配置测试环境
+
+### windows 
+1. 安装wsl2 
+    必须是window 10
+    - x64 系统需要: Version 1903 or higher, with Build 18362 or higher.
+    - ARM64 系统需要: Version 2004 or higher, with Build 19041 or higher.
+
+    [详细安装步骤](https://docs.microsoft.com/zh-cn/windows/wsl/install-win10)
+
+2. 安装docker-desktop
+    - [下载地址](https://www.docker.com/products/docker-desktop), 下载完成后按步执行即可
+
+3. (国内环境)提前下载k8s所需要的镜像
+    - https://github.com/AliyunContainerService/k8s-for-docker-desktop/tree/v1.19.7
+
+4. 在docker-desktop中开启kubernetes功能
+    - 在docker-desktop的settings中找到kubernetes, 点击Enable Kubernetes即可。可以参考第3步仓库中的Readme
+
+5. 安装windows Terminal(可选)
+    - Microsoft  Store中搜索即可
+
+### Mac
+1. 安装docker-desktop
+    - [下载地址](https://www.docker.com/products/docker-desktop), 下载完成后按步执行即可
+
+2. (国内环境)提前下载k8s所需要的镜像
+    - https://github.com/AliyunContainerService/k8s-for-docker-desktop/tree/v1.19.7
+
+### Linux
+
+1. 安装docker
+```sh
+curl -fsSL https://raw.githubusercontent.com/docker/docker-install/master/install.sh | sh - 
+```
+2. 安装kind
+
+[Kind github地址](https://github.com/kubernetes-sigs/kind), 详细步骤见链接中的Readme
+
 ## 里程碑
 
 1. 网站上线，具有投稿的能力（还未）
