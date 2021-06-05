@@ -13,10 +13,13 @@
 
 ![架构图](struct.png)
 
-项目整体文档: https://github.com/wethedevelop/wethedevelop.io
-网关服务: https://github.com/wethedevelop/gateway
-账号微服务: https://github.com/wethedevelop/account
-proto接口描述文件: https://github.com/wethedevelop/proto
+项目整体文档: [https://github.com/wethedevelop/wethedevelop.io](https://github.com/wethedevelop/wethedevelop.io)
+
+网关服务: [https://github.com/wethedevelop/gateway](https://github.com/wethedevelop/gateway)
+
+账号微服务: [https://github.com/wethedevelop/account](https://github.com/wethedevelop/account)
+
+proto接口描述文件: [https://github.com/wethedevelop/proto](https://github.com/wethedevelop/proto)
 
 ## 采用新技术的一个常见步骤
 
