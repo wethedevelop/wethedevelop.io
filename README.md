@@ -3,10 +3,10 @@
 # wethedevelop.io
 
 ## Translate
-## [English Document](en/README.MD)
+## [English Document](en/README.md)
 
 ## 简介
-[WeTheDevelop.io](https://github.com/wethedevelop/wethedevelop.io)是一块技术试验田，他的目标是尽可能的使用最新最有趣的技术去搭建一个类似于v2ex的开源技术社区。
+[WeTheDevelop.io](http://doc.wethedevelop.io)是一块技术试验田，他的目标是尽可能的使用最新最有趣的技术去搭建一个类似于v2ex的开源技术社区。
 
 [WeTheDevelop.io]并不是一个“正经”的项目，如果一个技术栈足够“有趣”，让程序员们乐意去使用，他就会被采用进来。后端的微服务，链路追踪，服务网格，K8S，日志服务；前端的微架构，全新编写的双向绑定，等等。
 
