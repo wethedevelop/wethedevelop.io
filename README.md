@@ -3,7 +3,7 @@
 # wethedevelop.io
 
 ## Translate
-## [English Document](en/README.MD)
+## [English Document](en/README.md)
 
 ## 简介
 [WeTheDevelop.io](https://github.com/wethedevelop/wethedevelop.io)是一块技术试验田，他的目标是尽可能的使用最新最有趣的技术去搭建一个类似于v2ex的开源技术社区。
